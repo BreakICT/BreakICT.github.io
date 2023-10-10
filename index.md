@@ -4,4 +4,4 @@
 title: Home
 layout: home
 ---
-CTF will start October 13th, 2023, start time TBA
+CTF REGISTRATION IS LIVE @ [https://ctf.breakict.org](https://ctf.breakict.org)
